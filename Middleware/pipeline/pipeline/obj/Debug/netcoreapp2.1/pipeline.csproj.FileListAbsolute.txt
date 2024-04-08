@@ -1,0 +1,14 @@
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\pipeline.deps.json
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\pipeline.runtimeconfig.json
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\pipeline.runtimeconfig.dev.json
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\pipeline.dll
+C:\DotNetCore\Middleware\pipeline\pipeline\bin\Debug\netcoreapp2.1\pipeline.pdb
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.csprojAssemblyReference.cache
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.RazorAssemblyInfo.cache
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.RazorAssemblyInfo.cs
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.AssemblyInfoInputs.cache
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.AssemblyInfo.cs
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.RazorTargetAssemblyInfo.cache
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.dll
+C:\DotNetCore\Middleware\pipeline\pipeline\obj\Debug\netcoreapp2.1\pipeline.pdb

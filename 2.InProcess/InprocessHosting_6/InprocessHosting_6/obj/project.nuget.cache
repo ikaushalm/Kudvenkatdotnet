@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHp2mAcjyAHmz53N3HtjNLwl7/PGIJV3ecq4/7knep96qETG8SwzepI7N8X9Ee5UKlbayBbh1dU1+E3XhCbdPw==",
+  "success": true,
+  "projectFilePath": "C:\\DotNetCore\\2.InProcess\\InprocessHosting_6\\InprocessHosting_6\\InprocessHosting_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaushal.patel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kaushal.patel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
